@@ -1,0 +1,23 @@
+# IntelliJ project files
+out
+.idea
+build
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.bat
+*.gradle
+
+# Compliled files
+/target/
+**/target
+/example/
+
+# Gradle
+gradle/
+gradlew
+.gradle
+/build/
+.gradletasknamecache
